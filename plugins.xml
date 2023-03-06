@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <plugins>
     <pyqgis_plugin name="pub_ddr_processing" version="1.0.0">
-        <description>This plugin allows to publish, unpublish, edit and validate a collection in the DDO</description>
+        <description>This plugin allows to publish, unpublish, edit and validate a collection in the DDR</description>
         <homepage>https://github.com/federal-geospatial-platform/pub_ddr_processing</homepage>
         <qgis_minimum_version>3.22</qgis_minimum_version>
         <file_name>pub_ddr_processing.zip</file_name>
