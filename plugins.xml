@@ -1,11 +1,16 @@
 <?xml version="1.0"?>
 <plugins>
     <pyqgis_plugin name="pub_ddr_processing" version="1.0.0">
-        <description>CDTK</description>
+        <description>This plugin allows to publish, unpublish, edit and validate a collection in the DDO</description>
         <homepage>https://github.com/federal-geospatial-platform/pub_ddr_processing</homepage>
         <qgis_minimum_version>3.22</qgis_minimum_version>
         <file_name>pub_ddr_processing.zip</file_name>
+        <icon>https://github.com/federal-geospatial-platform/pub_ddr_processing/blob/main/logo.png</icon>
         <author_name>Daniel Pilon</author_name>
+        <create_date>2023-04-01</create_date> 
+        <update_date>2016-04-01</update_date> 
+        <experimental>False</experimental> 
+        <deprecated>False</deprecated>
         <download_url>https:/federal-geospatial-platform.github.io/Plugin_Repository/pub_ddr_processing.zip</download_url>
     </pyqgis_plugin>
 </plugins>
