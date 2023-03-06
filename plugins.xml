@@ -5,7 +5,7 @@
         <homepage>https://github.com/federal-geospatial-platform/pub_ddr_processing</homepage>
         <qgis_minimum_version>3.22</qgis_minimum_version>
         <file_name>pub_ddr_processing.zip</file_name>
-        <icon>https://github.com/federal-geospatial-platform/pub_ddr_processing/blob/main/logo.png</icon>
+        <icon>https:/federal-geospatial-platform.github.io/Plugin_Repository/logo_pub_ddr_publication.png</icon>
         <author_name>Daniel Pilon</author_name>
         <create_date>2023-04-01</create_date> 
         <update_date>2016-04-01</update_date> 
