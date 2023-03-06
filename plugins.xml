@@ -8,7 +8,7 @@
         <icon>https:/federal-geospatial-platform.github.io/Plugin_Repository/logo_pub_ddr_publication.png</icon>
         <author_name>Daniel Pilon</author_name>
         <create_date>2023-03-01</create_date> 
-        <update_date>2016-03-06</update_date> 
+        <update_date>2023-03-06</update_date> 
         <experimental>False</experimental> 
         <deprecated>False</deprecated>
         <download_url>https:/federal-geospatial-platform.github.io/Plugin_Repository/pub_ddr_processing.zip</download_url>
