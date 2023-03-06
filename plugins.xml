@@ -11,6 +11,6 @@
         <update_date>2023-03-06</update_date> 
         <experimental>False</experimental> 
         <deprecated>False</deprecated>
-        <download_url>https:/federal-geospatial-platform.github.io/Plugin_Repository/pub_ddr_processing.zip</download_url>
+        <download_url>https:/federal-geospatial-platform.github.io/Plugin_Repository/</download_url>
     </pyqgis_plugin>
 </plugins>
