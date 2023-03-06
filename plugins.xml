@@ -4,7 +4,7 @@
         <description>This plugin allows to publish, unpublish, edit and validate a collection in the DDR</description>
         <homepage>https://github.com/federal-geospatial-platform/pub_ddr_processing</homepage>
         <qgis_minimum_version>3.22</qgis_minimum_version>
-        <file_name>pub_ddr_processing.zip</file_name>
+        <file_name>pub_ddr_processing</file_name>
         <icon>https:/federal-geospatial-platform.github.io/Plugin_Repository/logo_pub_ddr_publication.png</icon>
         <author_name>Daniel Pilon</author_name>
         <create_date>2023-03-01</create_date> 
