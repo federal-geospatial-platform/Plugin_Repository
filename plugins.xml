@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <plugins>
-    <pyqgis_plugin name="pub_ddr_processing" version="1.0.0">
-        <description>This plugin allows to publish, unpublish, edit and validate a collection in the DDR</description>
+    <pyqgis_plugin name="CDTK" version="1.0.0">
+        <description>This plugin allows to publish, unpublish, edit and validate a collection in the CDTK.</description>
          <homepage> 
               <![CDATA[https://github.com/federal-geospatial-platform/pub_ddr_processing]]> 
             </homepage> 
