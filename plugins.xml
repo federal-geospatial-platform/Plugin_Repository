@@ -14,6 +14,7 @@
         <update_date>2023-03-06</update_date> 
         <experimental>False</experimental> 
         <deprecated>False</deprecated>
-        <download_url>https:/federal-geospatial-platform.github.io/Plugin_Repository</download_url>
+        <repository>https:/federal-geospatial-platform.github.io/Plugin_Repository</repository>
+        <tags><![CDATA[ddr,publication,FGP,Federal Geospatal Platform, publish, unpublish, edit, vector, raster]]></tags>
     </pyqgis_plugin>
 </plugins>
