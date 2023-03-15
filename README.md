@@ -1,5 +1,5 @@
 # Plugin_Repository
-__QGIS Plugin Repository__
+QGIS Plugin Repository
 
 
 The site is accesssible from https://federal-geospatial-platform.github.io/Plugin_Repository/
