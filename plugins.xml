@@ -4,8 +4,7 @@
         <description>This plugin allows to publish, unpublish, edit and validate a collection with the DDR.</description>
          <homepage> 
               <![CDATA[https://github.com/federal-geospatial-platform/pub_ddr_processing]]> 
-            </homepage> 
-        <version>1.0.2</version>
+            </homepage>
         <qgis_minimum_version>3.22.0</qgis_minimum_version>
         <qgis_maximum_version>3.99.99</qgis_maximum_version> 
         <file_name>pub_ddr_processing.zip</file_name>
