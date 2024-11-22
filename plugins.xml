@@ -21,7 +21,7 @@
     <pyqgis_plugin name="CDTK Management Plugin" version="0.4">
         <description>This plugin allows to publish, unpublish, update and validate a collection in the CDTK.</description>
          <homepage>
-              <![CDATA[https://git.geoproc.geogc.ca/geodiscovery-data-team/cdtk/ddr-publication-api]]>
+              <![CDATA[https://git.geoproc.geogc.ca/geodiscovery-data-team/cdtk/cdtk-publication]]>
             </homepage>
         <qgis_minimum_version>3.34.0</qgis_minimum_version>
         <qgis_maximum_version>3.36.99</qgis_maximum_version>
@@ -32,7 +32,7 @@
         <update_date>2024-11-18</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
-        <download_url>https://federal-geospatial-platform.github.io/Plugin_Repository/cdtk_management_plugin.zip.zip</download_url>
+        <download_url>https://federal-geospatial-platform.github.io/Plugin_Repository/cdtk_management_plugin.zip</download_url>
         <repository>https://git.geoproc.geogc.ca/geodiscovery-data-team/cdtk/cdtk-publication</repository>
         <tags><![CDATA[cdtk,publication,FGP,Federal Geospatal Platform, publish, unpublish, edit, vector, raster]]></tags>
     </pyqgis_plugin>
