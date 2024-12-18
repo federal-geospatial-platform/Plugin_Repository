@@ -24,7 +24,7 @@
               <![CDATA[https://git.geoproc.geogc.ca/geodiscovery-data-team/cdtk/cdtk-publication]]>
             </homepage>
         <qgis_minimum_version>3.34.0</qgis_minimum_version>
-        <qgis_maximum_version>3.40.99</qgis_maximum_version>
+        <qgis_maximum_version>3.36.99</qgis_maximum_version>
         <file_name>cdtk_management_plugin.zip</file_name>
         <icon>https:/federal-geospatial-platform.github.io/Plugin_Repository/logo_pub_ddr_publication.png</icon>
         <author_name>CDTK team</author_name>
