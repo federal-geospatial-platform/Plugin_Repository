@@ -3,7 +3,7 @@
     <pyqgis_plugin name="CDTK Management Plugin" version="0.69">
         <description>
             <![CDATA[
-            [EN] This plugin allows to publish, unpublish, update and validate a dataset in the CDTK.
+            [EN] This plugin allows to publish, unpublish, update and validate a dataset in the CDTK.<p>
             [FR] Ce plugin permet de publier, dépublier, mettre à jour et valider un jeu de données dans le CODC.
             ]]>
         </description>
