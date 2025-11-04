@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <plugins>
-    <pyqgis_plugin name="CDTK Management Plugin" version="0.69">
+    <pyqgis_plugin name="CDTK Management Plugin" version="0.70">
         <description>
             <![CDATA[
             [EN] This plugin allows to publish, unpublish, update and validate a dataset in the CDTK.<p>
@@ -16,7 +16,7 @@
         <icon>https://federal-geospatial-platform.github.io/Plugin_Repository/logo_cdtk_publication.png</icon>
         <author_name>Natural Resources Canada, GeoDiscovery / Ressources naturelles Canada, GéoDécouverte</author_name>
         <create_date>2024-09-01</create_date>
-        <update_date>2025-06-13</update_date>
+        <update_date>2025-11-04</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <download_url>https://federal-geospatial-platform.github.io/Plugin_Repository/cdtk_management_plugin.zip</download_url>
