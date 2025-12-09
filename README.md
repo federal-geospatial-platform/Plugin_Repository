@@ -9,3 +9,4 @@ https://federal-geospatial-platform.github.io/Plugin_Repository/plugins.xml
 
 List of the QGIS plugins in the repository
   - cdtk_management_plugin
+  - cdtk_management_plugin_qgis_v4

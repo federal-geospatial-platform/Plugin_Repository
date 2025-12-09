@@ -23,4 +23,27 @@
         <repository>https://git.geoproc.geogc.ca/geodiscovery-data-team/cdtk/cdtk-publication</repository>
         <tags><![CDATA[cdtk,codc,publication,FGP,PGF,Federal Geospatal Platform,Plateforme Géospatiale Fédérale,GeoDiscovery,Géodécouverte,publish,publier,unpublish,dépublier,update,mettre à jour,vector,vecteur,raster]]></tags>
     </pyqgis_plugin>
+    <pyqgis_plugin name="CDTK Management Plugin QGISv4" version="0.71">
+        <description>
+            <![CDATA[
+            [EN] This plugin allows to publish, unpublish, update and validate a dataset in the CDTK.<p>
+            [FR] Ce plugin permet de publier, dépublier, mettre à jour et valider un jeu de données dans le CODC.
+            ]]>
+        </description>
+         <homepage>
+              <![CDATA[https://git.geoproc.geogc.ca/geodiscovery-data-team/cdtk/cdtk-publication]]>
+            </homepage>
+        <qgis_minimum_version>3.44.0</qgis_minimum_version>
+        <qgis_maximum_version>4.99</qgis_maximum_version>
+        <file_name>cdtk_management_plugin_qgisv4.zip</file_name>
+        <icon>https://federal-geospatial-platform.github.io/Plugin_Repository/logo_cdtk_publication.png</icon>
+        <author_name>Natural Resources Canada, GeoDiscovery / Ressources naturelles Canada, GéoDécouverte</author_name>
+        <create_date>2024-09-01</create_date>
+        <update_date>2025-12-08</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <download_url>https://federal-geospatial-platform.github.io/Plugin_Repository/cdtk_management_plugin_qgis_v4.zip</download_url>
+        <repository>https://git.geoproc.geogc.ca/geodiscovery-data-team/cdtk/cdtk-publication</repository>
+        <tags><![CDATA[cdtk,codc,publication,FGP,PGF,Federal Geospatal Platform,Plateforme Géospatiale Fédérale,GeoDiscovery,Géodécouverte,publish,publier,unpublish,dépublier,update,mettre à jour,vector,vecteur,raster]]></tags>
+    </pyqgis_plugin>
 </plugins>
