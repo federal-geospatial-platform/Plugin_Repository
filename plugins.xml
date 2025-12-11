@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <plugins>
-    <pyqgis_plugin name="CDTK Management Plugin" version="0.70">
+    <pyqgis_plugin name="CDTK Management Plugin" version="0.71">
         <description>
             <![CDATA[
             [EN] This plugin allows to publish, unpublish, update and validate a dataset in the CDTK.<p>
