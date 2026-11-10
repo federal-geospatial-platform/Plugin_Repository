@@ -62,7 +62,7 @@
         <icon>https://federal-geospatial-platform.github.io/Plugin_Repository/logo_toponyms_manager.svg</icon>
         <author_name>Natural Resources Canada, GeoConnect / Ressources naturelles Canada, GéoConnecte</author_name>
         <create_date>2026-11-01</create_date>
-        <update_date>2025-11-01</update_date>
+        <update_date>2026-11-01</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <download_url>https://federal-geospatial-platform.github.io/Plugin_Repository/toponyms_manager.zip</download_url>
