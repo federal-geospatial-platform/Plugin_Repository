@@ -46,8 +46,7 @@
         <repository>https://git.geoproc.geogc.ca/geodiscovery-data-team/cdtk/cdtk-publication</repository>
         <tags><![CDATA[cdtk,codc,publication,FGP,PGF,Federal Geospatal Platform,Plateforme Géospatiale Fédérale,GeoDiscovery,Géodécouverte,publish,publier,unpublish,dépublier,update,mettre à jour,vector,vecteur,raster]]></tags>
     </pyqgis_plugin>
-    </pyqgis_plugin>
-	    <pyqgis_plugin name="Toponyms Manager">
+	<pyqgis_plugin name="Toponyms Manager">
         <description>
             <![CDATA[
             [EN] This plugin allows users to import, validate, edit and publish batch toponym updates to the CGNDB.<p>
