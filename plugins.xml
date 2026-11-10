@@ -46,4 +46,28 @@
         <repository>https://git.geoproc.geogc.ca/geodiscovery-data-team/cdtk/cdtk-publication</repository>
         <tags><![CDATA[cdtk,codc,publication,FGP,PGF,Federal Geospatal Platform,Plateforme Géospatiale Fédérale,GeoDiscovery,Géodécouverte,publish,publier,unpublish,dépublier,update,mettre à jour,vector,vecteur,raster]]></tags>
     </pyqgis_plugin>
+    </pyqgis_plugin>
+	    <pyqgis_plugin name="Toponyms Manager">
+        <description>
+            <![CDATA[
+            [EN] This plugin allows users to import, validate, edit and publish batch toponym updates to the CGNDB.<p>
+            [FR] Ce plugin permet d'importer, de valider, d'éditer et de publier des mises à jour toponymiques par lot dans la CGNDB.
+            ]]>
+        </description>
+         <homepage>
+              <![CDATA[https://git.geoproc.geogc.ca/cgdi/toponymie/infra-migration-prod/batch_load_qgis_plugin]]>
+            </homepage>
+        <qgis_minimum_version>3.34.0</qgis_minimum_version>
+        <qgis_maximum_version>3.44.99</qgis_maximum_version>
+        <file_name>toponyms_manager.zip</file_name>
+        <icon>https://federal-geospatial-platform.github.io/Plugin_Repository/logo_toponyms_manager.png</icon>
+        <author_name>Natural Resources Canada, GeoConnect / Ressources naturelles Canada, GéoConnecte</author_name>
+        <create_date>2026-11-01</create_date>
+        <update_date>2025-11-01</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <download_url>https://federal-geospatial-platform.github.io/Plugin_Repository/toponyms_manager.zip</download_url>
+        <repository>https://git.geoproc.geogc.ca/cgdi/toponymie/infra-migration-prod/batch_load_qgis_plugin</repository>
+        <tags><![CDATA[CGNDB,toponymy,toponymie,toponyms,toponymes,validation]]></tags>
+    </pyqgis_plugin>
 </plugins>
